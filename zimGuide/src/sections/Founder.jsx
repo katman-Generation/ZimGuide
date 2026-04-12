@@ -1,4 +1,4 @@
-import tatendaImg from '../assets/tatenda.JPG';
+import tatendaImg from '../assets/tatenda.jpg';
 import Ivyimage from '../assets/ivy.jpg';
 
 export default function Founder() {
