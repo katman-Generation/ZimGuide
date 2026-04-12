@@ -1,5 +1,5 @@
 import tatendaImg from '../assets/tatenda.JPG';
-import alishaImg from '../assets/alisha.jpg';
+import Ivyimage from '../assets/Ivyimage.jpg';
 
 export default function Founder() {
   return (
@@ -42,15 +42,15 @@ export default function Founder() {
           </div>
         </div>
 
-        {/* Alisha */}
+        {/* Ivy */}
         <div className="flex flex-col items-center text-center">
           <img
-            src={alishaImg}
-            alt="Alisha"
+            src={Ivyimage}
+            alt="Ivy"
             className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 object-cover rounded-full mb-6"
           />
           <h3 className="font-[var(--font-heading)] text-xl sm:text-2xl md:text-2xl mb-2">
-            Alisha
+            Ivy
           </h3>
           <p className="uppercase text-xs sm:text-sm tracking-widest text-[var(--color-champagne)] mb-4">
             Member
